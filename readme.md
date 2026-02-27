@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/zyx-0314/">
-    <img src="https://i.pinimg.com/736x/1a/42/a6/1a42a645716881d86a1c7156ca41f353.jpg" alt="TechTytes Studios" width="130" height="100">
+    <img src="https://i.pinimg.com/736x/b8/91/cd/b891cdbbd475bbe9ba8ef66ec5bcd08b.jpg" alt="TechTytes Studios" width="130" height="100">
   </a>
 <!-- * Title Section -->
   <h3 align="center">Kulay ng Isip</h3>
