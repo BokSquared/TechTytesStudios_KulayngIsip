@@ -1,22 +1,22 @@
 <?= view('components/head'); ?>
+<section class="reveal-on-scroll py-20 px-6 md:px-10 bg-white text-center">
 
-<section class="reveal-on-scroll relative py-16 px-6 md:px-10 text-center h-64 md:h-80"
-    style="background-image: url('https://i.pinimg.com/736x/fa/49/c8/fa49c80f1f29e6c329e9639086d1a50a.jpg'); background-size: cover; background-position: center;">
+    <div class="max-w-3xl mx-auto">
 
-    <div class="absolute inset-0 bg-black/50"></div>
+        <!-- Large Title -->
+        <h2 class="text-4xl md:text-5xl font-bold text-[var(--accent)] mb-6">
+            A Message for the Players
+        </h2>
 
-    <div class="relative z-10 flex flex-col items-center justify-center h-full px-6 md:px-10">
-        <h3 class="text-3xl font-bold text-[var(--neutral)] mb-4">Stay Updated</h3>
-        <p class="text-[var(--neutral)]/80 mb-4 max-w-md text-center">
-            Subscribe to our newsletter for the latest exhibits and featured artists.
+        <!-- Description -->
+        <p class="text-gray-700 mb-6 leading-relaxed">
+            There is no wrong way to create. Every color you try is part of learning.
         </p>
 
-        <form class="max-w-md w-full flex flex-col sm:flex-row gap-4">
-            <input
-                type="email"
-                placeholder="Your email"
-                class="flex-1 px-4 py-2 rounded border border-[var(--secondary)] bg-[#1b1b1b] text-[var(--neutral)] focus:outline-none">
+        <!-- Bold Bottom Description -->
+        <p class="font-bold text-[var(--accent)] text-lg">
+            Keep playing. Keep imagining. Keep creating.
+        </p>
 
-        </form>
     </div>
 </section>
