@@ -18,12 +18,12 @@ This repository is intended for the promotional website of the game Kulay ng Isi
 </div>
 <br/>
 <br>
-TechTytes Studios:
-- Anchorez, Niko Luis
-- Eliarda, Alexander Jay
-- Japon, Althaea
-- Velasco, Gabriel Miro 
-
+TechTytes Studios:<br>
+- Anchorez, Niko Luis<br>
+- Eliarda, Alexander Jay<br>
+- Japon, Althaea<br>
+- Velasco, Gabriel Miro <br>
+<br>
 ![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/ci4-template)
 
 <!-- ! Make sure it was similar to your github -->
