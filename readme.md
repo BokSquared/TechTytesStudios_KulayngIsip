@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/zyx-0314/">
-    <img src="backend/app/Images/logo.png" alt="Nyebe" width="130" height="100">
+    <img src="https://i.pinimg.com/736x/1a/42/a6/1a42a645716881d86a1c7156ca41f353.jpg" alt="TechTytes Studios" width="130" height="100">
   </a>
 <!-- * Title Section -->
   <h3 align="center">Kulay ng Isip</h3>
@@ -15,14 +15,14 @@
 <div align="center">
 This repository is intended for the promotional website of the game Kulay ng Isip.
 
+</div>
+<br/>
+<br>
 TechTytes Studios:
 - Anchorez, Niko Luis
 - Eliarda, Alexander Jay
 - Japon, Althaea
 - Velasco, Gabriel Miro 
-</div>
-
-<br/>
 
 ![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/ci4-template)
 
