@@ -19,12 +19,11 @@
     <!-- ABOUT -->
     <section id="about" class="reveal-on-scroll bg-white pt-16 pb-12 px-6 md:px-10">
         <div class="max-w-4xl mx-auto text-center">
-            <!-- Title -->
+
             <h3 class="text-3xl font-bold text-[var(--accent)] mb-6">
                 Bring color back. Play, learn, and create!
             </h3>
 
-            <!-- Description -->
             <p class="text-black leading-relaxed mb-6">
                 Kulay ng Isip is a fun PC game where you go on an adventure inside a<br>
                 magical world that has lost its colors. You will solve puzzles, mix colors,<br>
@@ -98,14 +97,6 @@
         <div class="max-w-6xl mx-auto">
 
             <div class="w-full aspect-video overflow-hidden rounded-xl shadow-lg mb-10">
-                <img
-                    src="https://static.wikia.nocookie.net/megamitensei/images/3/32/Akechi_FinishingTouch.png/revision/latest/scale-to-width-down/1000?cb=20200508081906"
-                    class="w-full h-full object-cover"
-                    alt="Game Trailer Thumbnail">
-            </div>
-
-            <!--
-            <div class="w-full aspect-video overflow-hidden rounded-xl shadow-lg mb-10">
                 <iframe
                     class="w-full h-full"
                     src="https://www.youtube.com/embed/dQw4w9WgXcQ"
@@ -114,7 +105,6 @@
                     allowfullscreen>
                 </iframe>
             </div>
-            -->
 
             <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 mb-12">
                 <img src="https://static.wikia.nocookie.net/megamitensei/images/2/25/P5_portrait_of_Goro.png/revision/latest?cb=20200701144949"
