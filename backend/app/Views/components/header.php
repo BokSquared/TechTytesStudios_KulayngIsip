@@ -4,7 +4,7 @@
     <div class="flex items-center gap-8">
         <nav class="flex gap-8 text-[var(--neutral)] text-sm md:text-base font-bubbly">
             <a href="/" class="hover:text-[var(--background)] transition">Home</a>
-            <a href="#" class="hover:text-[var(--background)] transition">About</a>
+            <a href="/about" class="hover:text-[var(--background)] transition">About</a>
             <a href="#" class="hover:text-[var(--background)] transition">Blog</a>
             <a href="#" class="hover:text-[var(--background)] transition">Team</a>
         </nav>

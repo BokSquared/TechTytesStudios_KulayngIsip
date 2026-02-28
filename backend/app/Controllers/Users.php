@@ -10,4 +10,9 @@ class Users extends BaseController
     {
         return view('users/landingPage');
     }
+
+    public function about(): string
+    {
+        return view('users/aboutPage');
+    }
 }
